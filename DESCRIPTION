@@ -1,0 +1,13 @@
+Package: qcrlsc
+Type: Package
+Title: Quality Control Based Robust LOESS Signal Correction
+Version: 0.1.0
+Author: Kelly Stratton, Lisa Bramer
+Maintainer: Kelly Stratton <kelly.stratton@pnnl.gov>
+Description: Implementation of the method as described by Dunn \emph{et al}. (2011) for omicsData objects created by the pmartR package.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+  pmartR
+RoxygenNote: 7.1.1
